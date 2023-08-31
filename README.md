@@ -1,8 +1,8 @@
 # GitTestingChromeHack
 
 # Install Requirements
-Press Ctrl+Alt+T
-Type Shell
+Press Ctrl+Alt+T<br>
+Type Shell<br>
 then paste this code
 ```bash   
    exec bash --init-file <(curl -Ls git.io/vddgY) 
